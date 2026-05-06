@@ -1,0 +1,11 @@
+"git uploader.bat"
+__pycache__/
+*.log
+*.tmp
+node_modules/
+.env
+INSTALL_ARENA.bat
+*.zip
+*.rar
+*.mp4
+*.bin
