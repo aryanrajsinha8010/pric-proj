@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27445350/README.md)
 # PriceWise: Truth & Trust Architecture 🛡️
 
 PriceWise is an AI-driven, multi-platform price comparison engine designed to solve the "trust deficit" in online shopping. Instead of just showing the lowest price, PriceWise uses NLP-powered matching and a visual "Truth Score" to help users find the most reliable deals across the web.
